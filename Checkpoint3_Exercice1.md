@@ -23,6 +23,8 @@ mdp : Azerty1* puis cocher user must change password at next logon et finish
 
 #### Q.1.1.2
 
+- Créer OU à la racine du domaine TTSR.LAN
+
 ![desactived](https://github.com/Seyia11/Checkpoint-3/blob/main/Capture/Exercice%201/desactived.PNG?raw=true)
 
 #### Q.1.1.3
