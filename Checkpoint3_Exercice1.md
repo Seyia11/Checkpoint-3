@@ -11,7 +11,7 @@ Get-ADuser Kelly.Rhameur
 ```
 ![kelly](https://github.com/Seyia11/Checkpoint-3/blob/main/Capture/Exercice%201/kelly.PNG?raw=true)
 
-Ouvrir la console Active Directory Users ans Computeurs dans l'onglet Tools
+Ouvrir la console ``Active Directory Users ans Computeurs`` dans ``l'onglet Tools``
 
 Dans l'OU DirectionDesRessourcesHumaines, clic droit puis New -> User
 
