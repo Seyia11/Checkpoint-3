@@ -30,7 +30,9 @@ mdp : Azerty1* puis cocher user must change password at next logon et finish
 
 #### Q.1.1.3
 
-Clic droit sur l'utilisateur, onglet member of, selectionner GrpUsersDirectionDesRessourcesHumaines puis ``remove``
+- Clic droit sur l'utilisateur
+- onglet member of
+- selectionner GrpUsersDirectionDesRessourcesHumaines puis ``remove``
 
 
 #### Q.1.1.4
