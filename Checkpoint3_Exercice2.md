@@ -56,6 +56,8 @@ On utilise la commande ``lsblk`` et ``fdisk -l``
 
 #### Q.2.3.3
 
+- Ajout d'un disque :
+
 ![disque](https://github.com/Seyia11/Checkpoint-3/blob/main/Capture/Exercice%201/Exercice%202/disque.PNG?raw=true)
 
 - On vérifie que le disque sdb est bien présent (lsblk)
